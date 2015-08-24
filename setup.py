@@ -8,7 +8,7 @@ else:
     version = "%d.%d" % version_tuple[:2]
 
 setup(
-    name='django-voting',
+    name='django-voting-mc17',
     version=version,
     description='Generic voting application for Django',
     author='Jonathan Buchanan',
